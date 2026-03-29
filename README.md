@@ -243,17 +243,6 @@ MIT License - Libre para usar y modificar
 
 ---
 
-## 👨‍💻 Autor
-
-**Tu Nombre**  
-Desarrollador Frontend | Diseño & Frontend  
-
-- **GitHub**: [github.com/tu-usuario](https://github.com/tu-usuario)
-- **LinkedIn**: [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil)
-- **Portfolio**: [tu-sitio.com](https://tu-sitio.com)
-
----
-
 ## 📞 Contacto & Soporte
 
 ¿Preguntas o sugerencias?  
